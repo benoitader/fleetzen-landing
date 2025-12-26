@@ -74,3 +74,4 @@ src/
 - TypeScript strict mode
 - Prettier format on save
 
+
